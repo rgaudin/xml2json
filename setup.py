@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "xml2json",
-    version = "0.1",
+    version = "0.2reg",
     author = "Hay Kranen",
     author_email = "huskyr@gmail.com",
     description = ("Python script converts XML to JSON or the other way around"),
